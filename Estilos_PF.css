@@ -1,0 +1,56 @@
+.titulo{
+    background-color: darkgreen;
+    color: black;
+    font-family: "comic sans ms",cursive;
+}
+.subtitulo{
+    background-color: #00C402;
+    color: black;
+    font-family: "comic sans ms", cursive;
+}
+.texto{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.titulo2{
+    background-color: darkgreen;
+    color: black;
+    font-family: "comic sans ms",cursive;
+}
+.subtitulo2{
+    background-color: aqua;
+    color: black;
+    font-family: "comic sans ms", cursive;
+}
+.texto2{
+    color: black;
+    font-family: "arial black", cursive;
+}
+.titulo3{
+    background-color: green;
+    color: black;
+    font-family: "comic sans ms",cursive;
+}
+.subtitulo3{
+    background-color: #5EBE4F;
+    color: black;
+    font-family: "comic sans ms", cursive;
+}
+.texto3{
+    color: black;
+    font-family: "arial black", cursive;
+}
+.titulo4{
+    background-color: darkred;
+    color: black;
+    font-family: "comic sans ms",cursive;
+}
+.subtitulo4{
+    background-color: red;
+    color: black;
+    font-family: "comic sans ms", cursive;
+}
+.texto4{
+    color: white;
+    font-family: "arial black", cursive;
+}
